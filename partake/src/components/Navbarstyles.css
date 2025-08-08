@@ -1,0 +1,51 @@
+
+
+/* .home{
+    height: 120vh;
+    background-image: url("C:/Users/AIT/Desktop/partake/partake/src/images/bgimage1.webp");
+    background-size: cover;
+    background-position: center;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-top: 25px;
+} */
+
+.productNav li{
+    list-style-type: none;
+    /* display: inline; */
+    padding-right: 15px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: rgb(45, 80, 156);
+}
+.leftList{
+    display: inline;
+}
+.icons-right{
+    list-style-type: none;
+    /* display: inline; */
+    padding-right: 15px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: rgb(45, 80, 156);
+}
+.right-list{
+    display: inline;
+    padding-right: 25px;
+}
+.productList li{
+    list-style-type: none;
+    padding-right: 15px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+    color: rgb(45, 80, 156);
+}
+
+.icons-right i{
+    font-size: 25px;
+    color: rgb(45, 80, 156);
+    padding-left: 100px;
+}

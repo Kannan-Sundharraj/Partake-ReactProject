@@ -1,0 +1,28 @@
+.home-nav li{
+    color: white;
+}
+.home-cookies{
+    background-image: url("C:/Users/AIT/Desktop/partake/partake/src/images/products/bgimage.webp");
+    height: 200px;
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+}
+
+.main-nav{
+    position: relative;
+    background-color: rgb(0, 110, 255);
+    height: 230px;
+}
+
+.cookie1{
+    position:absolute;
+    left: 80vw;
+    top: 130px;
+}
+
+.cookie2{
+    position: absolute;
+    left: 60vw;
+    top: 0px;
+}

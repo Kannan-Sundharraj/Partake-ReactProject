@@ -1,0 +1,85 @@
+
+.footer{
+    height: 70vh;
+    background-color: rgb(56, 156, 172);
+    background-image: url("C:/Users/AIT/Desktop/partake/partake/src/images/cookie13.avif");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+}
+
+.footer-row{
+    display: flex;
+    color: white;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 30px;
+    padding-top: 50px;
+    padding-left: 100px;
+}
+
+.column1{
+    width:25%;
+}
+
+.column2{
+    width: 25%;
+    padding-left: 80px;
+}
+
+.footer-right{
+    padding-left: 100px;
+    width: 50%;
+
+}
+.footer-image{
+    padding-left: 100px;
+}
+
+.footer-image p{
+    color: rgba(255, 255, 255, 0.5);
+    padding-top: 25px;
+    font-size: 15px;
+    word-spacing: 5px;    
+}
+
+.footer-icons i{
+    font-size: 35px;
+    color:rgb(56, 156, 172);
+    background-color: rgba(255, 255, 255, 0.514);
+    border: rgba(255, 255, 255, 0.514) 1px solid;
+    border-radius: 50%;
+    margin-right: 20px;
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+
+.footer-icons i:hover{
+    background-color: rgba(255, 255, 255, 0.9);
+}
+.mail{
+    display: flex;
+}
+/* 
+.mail input:focus{
+    outline:none;
+} */
+
+.footer-right input{
+    background-color: rgb(56, 156, 172);
+    font-size: 20px;
+    color: white;
+    margin-right: 100px;
+}
+
+.underline5{
+    background-color: white;
+    height: 4px;
+    width: 450px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.footer-right p{
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 15px;
+}

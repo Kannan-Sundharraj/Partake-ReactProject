@@ -1,0 +1,438 @@
+.home-text{
+    padding: 75px;
+    background-image: url("C:/Users/AIT/Desktop/partake/partake/src/images/bgimage1.webp");
+    background-size: cover;
+    background-position: center;
+}
+
+.home-text p{
+    color: rgb(45, 80, 156);
+    font-size: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 600;
+
+}
+.pride{
+    color: #f385c9;
+}
+.purpose{
+    color: #fa7529;
+}
+.impact{
+    color: #fad14f;
+}
+.snack{
+    color: #81d69e;
+}
+.home-text button{
+    color: white;
+    background-color: #f7b9e1;
+    height: 50px;
+    width: 175px;
+    margin-top: 25px;
+    border: rgb(45, 80, 156) solid 1px;
+    border-radius: 25px;
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.products{
+    height: 70vh;
+    display: flex;
+    overflow: hidden;
+}
+
+.products h1{
+    color:rgb(45, 80, 156);
+    font-size: 30px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 25px;
+}
+
+.products p{
+    color:rgb(45, 80, 156);
+    font-size: 17px;
+    font-weight: 600;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.products img{
+    padding-top: 20px;
+    margin: auto;
+}
+.cookies{
+    width: 33%;
+    text-align: center;
+    background-color: #f7b9e1;
+    padding-top: 25px;
+}
+
+.grahams{
+    width: 33%;
+    text-align: center;
+    background-color: #81d69e;
+    padding-top: 25px;
+}
+
+.wafers{
+    width: 33%;
+    text-align: center;
+    background-color: skyblue;
+    padding-top: 25px;
+}
+
+.underline{
+    height: 5px;
+    width: 150px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 7px;
+    margin-left: 145px;
+}
+
+.underline2{
+    height: 5px;
+    width: 108px;
+    background-color: rgb(255, 255, 255);
+    margin-top: 7px;
+    margin-left: 170px;
+}
+
+.allergens{
+    height: 70vh;
+    padding-top: 70px;
+}
+
+.allergens h1{
+    color:rgb(45, 80, 156);
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding-bottom: 20px;
+    background-image: url("C:/Users/AIT/Desktop/partake/partake/src/images/bgimage3.svg");
+    background-size: auto;
+}
+
+.allergens p{
+    color: rgb(45, 80, 156);
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.allergens div{
+    text-align: center;
+}
+
+.allergen{
+    padding: 20px;
+    margin-right: 5px;
+    border: 2px solid rgb(45, 80, 156);
+    border-radius: 20px;
+}
+
+.ingredients{
+    height:auto;
+    background-color: rgb(144, 238, 207);
+    padding: 100px;
+    display: flex;
+}
+
+.ingredients-text{
+    width: 50%;
+}
+
+.ingredients h1{
+    color: rgb(45, 80, 156);
+    font-size: 40px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-bottom: 25px;
+}
+
+.ingreText{
+    color:rgb(45, 80, 156);
+    font-size: 22px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
+    padding-bottom: 30px;
+    width: 500px;
+}
+
+.ingredients B{
+    color:rgb(45, 80, 156);
+    font-size: 17px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 35px;
+    padding-bottom: 30px;
+}
+
+.ingredients hr{
+    height: 5px;
+    width: 385px;
+    background-color:white;
+}
+
+.ingredients-images{
+    min-width: 50%;
+    position: absolute;
+    right: 2vw;
+}
+
+.ingredients-images img{
+    padding: 15px;
+    margin: 25px;
+}
+
+.plus{
+    height: 30px;
+    width: 30px;
+    padding: auto;
+    background-color: green;
+    color: white;
+    position: absolute;
+    border: 1px solid white;
+    border-radius: 50%
+}
+.new-products{
+    height: 120vh;
+}
+
+.new-products h1{
+    color:rgb(45, 84, 156);
+    font-size: 45px;
+    font-weight: 600;
+    font-family:Arial, Helvetica, sans-serif;
+    padding-top: 100px;
+    padding-left: 100px;
+}
+
+.products-list{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.product{
+    width: 33%;
+}
+
+.product-text{
+    text-align: center;
+    color:rgb(35, 68, 129);
+    font-size: 20px;
+    font-weight: 550;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.stars{
+    text-align: center;
+    color: rgb(35, 68, 129);
+    font-size: 20px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.store{
+    background-color:rgb(45, 84, 156);
+    height: 15vh;
+    display: flex;
+    justify-content: center;
+}
+
+.store h2{
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-right: 20px;
+    padding-top: 35px;
+}
+
+.store p{
+    color:white;
+    font-size: 17px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 30px;
+    line-height: 30px;
+}
+
+.underline3{
+    background-color: #aad681;
+    height: 5px;
+    width: 135px;
+}
+
+.review{
+    height: 100vh;
+    display: flex;
+    padding: 100px;
+}
+
+.review-image{
+    width: 50%;
+    text-align: center;
+    background-image: url("C:/Users/AIT/Desktop/partake/partake/src/images/bgimage2.svg");
+    background-size: contain;
+}
+
+.review-text{
+    padding: 60px;
+}
+
+.review-text p{
+    color: rgb(45, 84, 156);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    line-height: 35px;
+}
+
+#reviewer{
+    padding-top: 35px;
+}
+
+.about{
+    height: 90vh;
+    display: flex;  
+}
+
+.about-image{
+    width: 50%;
+    height: 90vh;
+    background-image:url("C:/Users/AIT/Desktop/partake/partake/src/images/aboutimage.webp");
+    background-size: cover;
+    background-position: center;
+}
+
+.about-text{
+    width: 50%;
+    background-color:rgb(103, 206, 238);
+    padding-top: 50px;
+    padding-left: 50px;
+}
+
+.about-text h1{
+    color: rgb(29, 59, 87);
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 45px;
+    padding-bottom: 15px;
+}
+
+.about-text p{
+    color: rgb(29, 59, 87);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 25px;
+    line-height: 30px;
+}
+
+.about-icons{
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+.icon{
+    display: flex;  
+}
+
+.about-icons p{
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 40px;
+    align-items: center;
+}
+
+.about-icons i{
+    height: 30px;
+    width: 30px;  
+    font-size: 20px;
+}
+
+#read{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.underline4{
+    background-color: rgb(29, 59, 87);
+    height: 5px;
+    width: 135px;
+}
+
+.insta img{
+    width: 33.1%;
+}
+
+.insta-text{
+    height: 30vh;
+    text-align: center;
+}
+
+.insta-text h2{
+    color: rgb(45, 84, 156);
+    font-size: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 40px;
+}
+
+.insta-text p{
+    color: rgb(45, 84, 156);
+    font-size: 20px;
+    font-weight: 600;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-top: 10px;
+
+}
+#ginger, #vanilla, #oats, #flax, #rosemary, #cinnamon{
+    background-color: white;
+    /* color: lightskyblue; */
+    width: 225px;
+    text-align: center;
+    padding: 10px;
+    border-radius: 15%;
+    /* display: none; */
+    z-index: 2;
+}
+#ginger{
+    position: absolute;
+    top: 20px;
+    left: 25px;
+    /* height: 260px; */
+}
+#vanilla{
+    position: absolute;
+    top: 20px;
+    left: 220px;
+}
+#oats{
+    position: absolute;
+    top: 20px;
+    left: 420px;
+}
+#flax{
+    position: absolute;
+    left: 20px;
+    top: 220px;
+}
+#rosemary{
+    position: absolute;
+    top: 220px;
+    left: 230px;
+}
+#cinnamon{
+    position: absolute;
+    top: 220px;
+    left: 420px;
+}
+.ingreDetail h3{
+    font-size: 30px;
+    text-align: center;
+}
+.ingreDetail p{
+    height: 225px;
+    width: 160px; 
+    font-size: 17px;
+    line-height: 20px;
+    color: blueviolet;
+    margin: auto;
+}
